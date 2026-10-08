@@ -1,0 +1,3 @@
+[storage]
+key_source = "file"
+key_file = "~/.config/noctalia/storage.key"
